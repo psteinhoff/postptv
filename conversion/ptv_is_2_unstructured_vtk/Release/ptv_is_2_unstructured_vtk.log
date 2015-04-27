@@ -1,0 +1,14 @@
+﻿Build started 04.04.2014 11:40:33.
+     1>Project "D:\EBC0043_DFG_3D-PTV_pst\PTV_converter_to_vtk\ptv_is_2_unstructured_vtk\ptv_is_2_unstructured_vtk.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\ptv_is_2_unstructured_vtk.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\ptv_is_2_unstructured_vtk.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ptv_is_2_unstructured_vtk.c
+         ptv_is_2_unstructured_vtk.c
+     1>ptv_is_2_unstructured_vtk.c(2208): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(153,5): error MSB6006: "CL.exe" exited with code 2.
+     1>Done Building Project "D:\EBC0043_DFG_3D-PTV_pst\PTV_converter_to_vtk\ptv_is_2_unstructured_vtk\ptv_is_2_unstructured_vtk.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.20

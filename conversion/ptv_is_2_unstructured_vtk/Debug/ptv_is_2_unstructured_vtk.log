@@ -1,0 +1,20 @@
+﻿Build started 27.04.2015 07:58:23.
+     1>Project "D:\OpenPTV\postptv\conversion\ptv_is_2_unstructured_vtk\ptv_is_2_unstructured_vtk.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ptv_is_2_unstructured_vtk.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\ptv_is_2_unstructured_vtk.unsuccessfulbuild".
+         Touching "Debug\ptv_is_2_unstructured_vtk.lastbuildstate".
+     1>Done Building Project "D:\OpenPTV\postptv\conversion\ptv_is_2_unstructured_vtk\ptv_is_2_unstructured_vtk.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08

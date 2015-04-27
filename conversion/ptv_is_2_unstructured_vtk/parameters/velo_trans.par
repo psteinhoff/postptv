@@ -1,0 +1,8 @@
+40.000000
+4
+10
+
+Parameters are stored in velo_trans.par:
+1st - time between to images in ms
+2nd - threshold for minimal length of trajectory to be converted
+3rd - size of stacks == # of time steps that will be summarized into one stack to compare different scenes from one run 
