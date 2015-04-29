@@ -1,12 +1,10 @@
-﻿Build started 29.04.2015 13:51:22.
+﻿Build started 29.04.2015 14:32:42.
      1>Project "D:\OpenPTV\postptv_new\conversion\ptv_is_2_unstructured_vtk\ptv_is_2_unstructured_vtk.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Release\ptv_is_2_unstructured_vtk.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
-         All outputs are up-to-date.
-         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\OpenPTV\postptv_new\conversion\ptv_is_2_unstructured_vtk\include /Zi /nologo /W1 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt src\ptv_is_2_unstructured_vtk.c src\tools.c
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\OpenPTV\postptv_new\conversion\ptv_is_2_unstructured_vtk\include /Zi /nologo /W1 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt src\ptv_is_2_unstructured_vtk.c
          ptv_is_2_unstructured_vtk.c
-         tools.c
        Link:
          c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\OpenPTV\postptv_new\conversion\ptv_is_2_unstructured_vtk\Release\ptv_is_2_unstructured_vtk.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"D:\OpenPTV\postptv_new\conversion\ptv_is_2_unstructured_vtk\Release\ptv_is_2_unstructured_vtk.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\OpenPTV\postptv_new\conversion\ptv_is_2_unstructured_vtk\Release\ptv_is_2_unstructured_vtk.lib" /MACHINE:X86 Release\ptv_is_2_unstructured_vtk.obj
          Release\tools.obj
@@ -20,4 +18,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:02.14
+Time Elapsed 00:00:01.16

@@ -144,7 +144,7 @@ int main(int argc,char **argv)
 		}
 	}
     //PostToParaview_c(argc,argv, path_to_WF, Exportflag);
-	printf("Press any key to quit application.");
+	printf("Press 'return' to quit application.");
 	gets(Buffer);
     return 0;			/* Needed only to prevent compiler warning. */
 }
