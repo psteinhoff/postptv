@@ -11,19 +11,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ptv_is_2_unstructured_vtk.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="typedefs.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="globals.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="ptv_is_2_unstructured_vtk.c">
+    <ClCompile Include="src\ptv_is_2_unstructured_vtk.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\tools.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\globals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ptv_is_2_unstructured_vtk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\typedefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
