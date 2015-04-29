@@ -11,4 +11,12 @@ The tool offers different export options:
  'd': Enables export of stacks. (exports trajectories with a specified number of time steps into one scene 
 		-->  of course you can load different scenes at once into paraview)
  'e': Enables export of trajectories. (sorted and filtered by length - time and storage consuming!!!)
+ 
+ For more information what to do with the converted files using paraview and the kiwi-viewer look here:
+ 
+ http://www.paraview.org/
+ 
+ or
+ 
+ http://www.kiwiviewer.org/
 
