@@ -1,12 +1,8 @@
 This "package" is a small tool to convert your ptv.is-files into .vtk-files (unstructured grid)
 The .vtk-files can be loaded into paraview, a powerfull post-processing tool.
 
-add velo-trans.par, 3d_point_offset.par and ptv2vtk.config to your parameter folder.
+add velo-trans.par, 3d_point_offset.par to your parameter folder.
 
-To run the tool you have two options, a and b:
-
-(a) Change the working folder in line 33 of ptv_is_unstructured_vtk.c to match youur working folder and compile it.
-(b) Start the executable, press <return>, press <return> again and enter the path to your ptv2vtk.config file. (working folder has to be adjusted in ptv2vtk.config as well.
 
 The tool offers different export options:
 
