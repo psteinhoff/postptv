@@ -258,8 +258,7 @@ void progressBar(int line, int width, int progressInPercent)
 	if (width < 10) width = 10;
 	if (width > 60) width = 60;
 	sprintf(textToPrint,"%3d %%",progressInPercent); 
-	
-	//strcpy(tmp,""); 
+	 
 	memset(tmp,0,sizeof(tmp));
 	progress = (int)(progressInPercent*width/100);
 	tmp[0]='[';

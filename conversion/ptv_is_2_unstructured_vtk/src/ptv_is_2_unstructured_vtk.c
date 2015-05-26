@@ -149,7 +149,7 @@ int main(int argc,char **argv)
     return 0;			/* Needed only to prevent compiler warning. */
 }
 
-int PostToParaview_c( int argc, const char** argv, char base_path[256],int flag4export[4])
+int PostToParaview_c( int argc, const char** argv, char base_path[256],int flag4export[5])
 {
 	int i,anz, anz1, anz2,anz3, m, j, k,l, q, r, tmp_ID, nOfP, nVerts,nPoints, time, timeID, lineOfP, tmpVeloPos, minSelect;
 	int x_offset, y_offset, z_offset;
